@@ -6,7 +6,7 @@ var path = require("path");
 
 //-----------------------------
 const hostname = 'localhost' ;
-const port =  process.env.port || 5000 ;
+const port =  process.env.PORT || 5000 ;
 solan = 0;
 
 
